@@ -3,7 +3,7 @@ name: Update Last Update Date
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   update-date:
@@ -27,5 +27,5 @@ jobs:
           git config --local user.email "github-actions@github.com"
           git add README.md
           git commit -m "自动更新最后更新日期" || echo "无更改"
-          git push origin master
+          git push origin main
 
