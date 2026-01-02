@@ -14,12 +14,7 @@
 ### 注意⚠️
 **使用前请先将葫芦侠账号解除QQ绑定，否则会出现“账号保护已开启，请使用QQ登录”问题。**
 
-### 配置步骤 🛠️
-
-1. **Fork本项目**：
-   - 点击右上角`Fork`按钮，将本项目Fork到你的仓库。
-
-2. **设置Github Secrets**：
+**设置Github Secrets**：
      `ACCOUNTS`
      ```
      account1,password1
