@@ -15,8 +15,8 @@
 **使用前请先将葫芦侠账号解除QQ绑定，否则会出现“账号保护已开启，请使用QQ登录”问题。**
 
 **设置Github Secrets**:  
-     `ACCOUNTS`  
-     ```
+`ACCOUNTS`  
+```
      account1,password1
      account2,password2
-     ```
+```
