@@ -17,6 +17,6 @@
 **设置Github Secrets**:  
 `ACCOUNTS`  
 ```
-     account1,password1
-     account2,password2
+account1,password1
+account2,password2
 ```
